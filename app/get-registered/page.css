@@ -1,0 +1,497 @@
+#combo-box-demo {
+    border: none !important;
+    /* width: 358px; */
+}
+.MuiAutocomplete-hasPopupIcon.css-1wuilmg-MuiAutocomplete-root .MuiOutlinedInput-root,
+.MuiAutocomplete-hasClearIcon.css-1wuilmg-MuiAutocomplete-root .MuiOutlinedInput-root {
+    padding-right: 39px;
+    width: 155%;
+}
+/* .pl_feature_benefites {
+    padding: 20px 1% 50px;
+} */
+.colomnWrapper {
+    min-height: 40vh;
+    /* border: 2px solid #000; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    /* border: 2px solid #e8e8e8; */
+}
+.formHeading {
+    font-size: 38px;
+    font-weight: 800;
+    color: #243771;
+}
+.formWrapper {
+    width: 100%;
+    padding: 10px 0px;
+    /* border: 2px solid #000; */
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* gap: 10px; */
+}
+/*----------------------*/
+#form_image_div {
+    position: fixed;
+    right: -10%;
+}
+
+.formCheck {
+    /* display: flex;
+    justify-content: flex-start;
+    align-items: center; */
+    width: 100%;
+    padding: 10px 0px;
+    /* border: 2px solid #000; */
+}
+/*----------------------*/
+.inputContainer {
+    width: 100%;
+    padding: 5px 0px;
+    /* border: 2px solid #000; */
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.inputContainer_label {
+    width: 20%;
+    padding: 12px 10px;
+    border: 1px solid #000;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+#phonenumber {
+    width: 70%;
+    margin-top: 0px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+.inputStyler {
+    width: 80%;
+    border-radius: 10px;
+    /* margin-top: 10px; */
+    background-color: transparent;
+    /* box-shadow: 6px 20px 50px #e6f3e880; */
+    /* border: 2px solid #000; */
+}
+
+/* input[type='text'] {
+    width: 100%;
+    padding: 13px 20px;
+    border: 1px solid #000; 
+    border-radius: 10px;
+} */
+
+.inputWrapper {
+    width: 100%;
+    margin-top: 10px;
+}
+.mainButton {
+    width: 50%;
+    padding: 15px 15px;
+    gap: 10px;
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 5px;
+    background-color: #f7d64a;
+    border: none;
+    border-radius: 10px;
+}
+.contentWrapper {
+    width: 100%;
+    padding: 10px 10px;
+    /* border: 2px solid #000; */
+}
+.buttonWrapper {
+    width: 100%;
+    padding: 10px 15px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 15px;
+}
+.selectBox {
+    width: 100%;
+    height: 30vh;
+    /* border: 2px solid yellow; */
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 20px;
+    padding: 0 10px;
+}
+.employeeBox {
+    width: 32%;
+    height: 55%;
+    border: 2px solid #243771;
+    border-radius: 20px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+    color: #243771;
+}
+.employeeBox .employeeImg {
+    width: 50px;
+    height: 56px;
+    /* border: 2px solid red; */
+    border-radius: 10px;
+}
+.employeeImg img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 10px;
+}
+.buttonWrapper2 {
+    width: 100%;
+    padding: 10px 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+}
+.mainButton2 {
+    width: 45%;
+    padding: 15px 15px;
+    gap: 10px;
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 10px;
+    border: 2px solid #f7d64a;
+    border-radius: 10px;
+    background-color: #fff;
+}
+.mainButton2:hover {
+    background-color: #f7d64a;
+}
+.formWrapperContent {
+    width: 100%;
+    /* padding: 20px 15px; */
+    /* border: 2px solid #000; */
+}
+.formContent {
+    width: 100%;
+    padding: 10px 15px;
+    /* border: 2px solid #000; */
+}
+.modeOfTransfer {
+    width: 100%;
+    height: 25vh;
+    /* border: 2px solid yellow; */
+    padding: 10px 5px;
+}
+.modeWrapper {
+    width: 100%;
+    padding: 10px 20px;
+    /* border: 2px solid #000; */
+    height: 20vh;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 10px;
+}
+.modeBox {
+    width: 31%;
+    height: 80%;
+    border: 2px solid #243771;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    color: #243771;
+}
+.modeBoxImg {
+    width: 54px;
+    height: 50px;
+    /* border: 2px solid red; */
+    padding: 5px;
+}
+.martialStatus {
+    width: 100%;
+    height: 28vh;
+    /* border: 2px solid yellow; */
+    padding: 10px 5px;
+}
+#title {
+    width: 100%;
+    padding: 10px;
+    font-size: 17px;
+}
+.martialStatusWrapper {
+    width: 100%;
+    padding: 10px 20px;
+    /* border: 2px solid #000; */
+    height: 20vh;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 10px;
+}
+.martialStatusBox {
+    width: 28%;
+    height: 70%;
+    border: 2px solid #243771;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    color: #243771;
+}
+
+.martialImg {
+    width: 40px;
+    height: 50px;
+    /* border: 2px solid red; */
+    padding: 5px;
+}
+.martialImg img {
+    width: 100%;
+    height: 100%;
+    /* object-fit: cover; */
+    object-position: center;
+}
+.form-check-label {
+    font-size: 12px;
+}
+.form-check-content {
+    font-size: 14px;
+}
+.form-check-content > p {
+    width: 100%;
+    padding: 0px 40px;
+}
+.form-check {
+    padding-left: 0px;
+}
+#dob {
+    padding: 10px;
+    border-radius: 10px;
+}
+@media (max-width: 1400px) {
+    .MuiAutocomplete-hasPopupIcon.css-1wuilmg-MuiAutocomplete-root .MuiOutlinedInput-root,
+    .MuiAutocomplete-hasClearIcon.css-1wuilmg-MuiAutocomplete-root .MuiOutlinedInput-root {
+        padding-right: 39px;
+        width: 140%;
+    }
+    .modeBox {
+        width: 35%;
+        height: 80%;
+    }
+    .martialStatusBox {
+        width: 35%;
+        height: 90%;
+    }
+}
+@media (max-width: 1300px) {
+    .MuiAutocomplete-hasPopupIcon.css-1wuilmg-MuiAutocomplete-root .MuiOutlinedInput-root,
+    .MuiAutocomplete-hasClearIcon.css-1wuilmg-MuiAutocomplete-root .MuiOutlinedInput-root {
+        padding-right: 39px;
+        width: 130%;
+    }
+}
+@media (max-width: 1200px) {
+    .MuiAutocomplete-hasPopupIcon.css-1wuilmg-MuiAutocomplete-root .MuiOutlinedInput-root,
+    .MuiAutocomplete-hasClearIcon.css-1wuilmg-MuiAutocomplete-root .MuiOutlinedInput-root {
+        padding-right: 39px;
+        width: 130%;
+    }
+    .modeBox {
+        width: 35%;
+        height: 80%;
+    }
+    .martialStatusBox {
+        width: 35%;
+        height: 90%;
+    }
+}
+@media (max-width: 1000px) {
+    #form_image_div {
+        position: static;
+    }
+    .modeBox {
+        width: 35%;
+        height: 60%;
+    }
+}
+@media (max-width: 950px) {
+    .modeBox {
+        height: 90%;
+    }
+    .martialStatusBox {
+        height: 90%;
+    }
+    .pl_feature_benefites {
+        padding: 20px 0% 50px;
+    }
+    .MuiAutocomplete-hasPopupIcon.css-1wuilmg-MuiAutocomplete-root .MuiOutlinedInput-root,
+    .MuiAutocomplete-hasClearIcon.css-1wuilmg-MuiAutocomplete-root .MuiOutlinedInput-root {
+        padding-right: 39px;
+        width: 212%;
+    }
+}
+@media (max-width: 800px) {
+    .MuiAutocomplete-hasPopupIcon.css-1wuilmg-MuiAutocomplete-root .MuiOutlinedInput-root,
+    .MuiAutocomplete-hasClearIcon.css-1wuilmg-MuiAutocomplete-root .MuiOutlinedInput-root {
+        padding-right: 39px;
+        width: 152%;
+    }
+}
+@media (max-width: 772px) {
+    .MuiAutocomplete-hasPopupIcon.css-1wuilmg-MuiAutocomplete-root .MuiOutlinedInput-root,
+    .MuiAutocomplete-hasClearIcon.css-1wuilmg-MuiAutocomplete-root .MuiOutlinedInput-root {
+        padding-right: 39px;
+        width: 152%;
+    }
+}
+/*-------------------------------------*/
+@media (max-width: 500px) {
+    .formHeading {
+        font-size: 25px;
+    }
+    .modeBox {
+        width: 35%;
+        height: 100%;
+    }
+    .modeBox h6 {
+        text-align: center;
+    }
+    .martialStatusBox {
+        height: 80%;
+        width: 40%;
+    }
+    .MuiAutocomplete-hasPopupIcon.css-1wuilmg-MuiAutocomplete-root .MuiOutlinedInput-root,
+    .MuiAutocomplete-hasClearIcon.css-1wuilmg-MuiAutocomplete-root .MuiOutlinedInput-root {
+        padding-right: 39px;
+        width: 135%;
+    }
+    .modeOfTransfer {
+        width: 100%;
+        height: 32vh;
+    }
+}
+
+@media (max-width: 454px) {
+    .modeBox {
+        width: 44%;
+        height: 80%;
+    }
+    .employeeBox {
+        width: 44%;
+        height: 55%;
+    }
+    .mainButton {
+        width: 100%;
+    }
+    .inputContainer_label {
+        width: 25%;
+    }
+    .formHeading {
+        font-size: 20px;
+    }
+    .formWrapper {
+        padding: 5px;
+        margin-top: 0px;
+    }
+    .buttonWrapper2 {
+        flex-direction: column;
+    }
+    .mainButton2 {
+        width: 100%;
+    }
+    .inputStyler {
+        width: 95%;
+    }
+    .modeBox {
+        height: 91%;
+    }
+    .modeBox h6 {
+        font-size: 15px;
+    }
+    .formWrapperContent {
+        padding: 0px 0px;
+    }
+    .martialStatusBox {
+        width: 50%;
+        height: 91%;
+    }
+    .buttonWrapper {
+        flex-direction: column;
+    }
+    .MuiAutocomplete-hasPopupIcon.css-1wuilmg-MuiAutocomplete-root .MuiOutlinedInput-root,
+    .MuiAutocomplete-hasClearIcon.css-1wuilmg-MuiAutocomplete-root .MuiOutlinedInput-root {
+        padding-right: 39px;
+        width: 112%;
+    }
+}
+@media (max-width: 384px) {
+    .MuiAutocomplete-hasPopupIcon.css-1wuilmg-MuiAutocomplete-root .MuiOutlinedInput-root,
+    .MuiAutocomplete-hasClearIcon.css-1wuilmg-MuiAutocomplete-root .MuiOutlinedInput-root {
+        padding-right: 39px;
+        width: 95%;
+    }
+}
+@media (max-width: 380px) {
+    .buttonWrapper {
+        flex-direction: column;
+    }
+    .inputContainer_label {
+        width: 28%;
+    }
+    .modeBox {
+        width: 50%;
+        height: 80%;
+    }
+    .martialStatusBox {
+        width: 50%;
+        height: 80%;
+    }
+    .MuiAutocomplete-hasPopupIcon.css-1wuilmg-MuiAutocomplete-root .MuiOutlinedInput-root,
+    .MuiAutocomplete-hasClearIcon.css-1wuilmg-MuiAutocomplete-root .MuiOutlinedInput-root {
+        padding-right: 39px;
+        width: 90%;
+    }
+}
+
+@media (max-width: 350px) {
+    .inputContainer_label {
+        width: 31%;
+    }
+    #employeeText {
+        font-size: 12px;
+    }
+    .modeWrapper {
+        padding: 0px 0px;
+    }
+    .buttonWrapper {
+        flex-direction: column;
+    }
+    .MuiAutocomplete-hasPopupIcon.css-1wuilmg-MuiAutocomplete-root .MuiOutlinedInput-root,
+    .MuiAutocomplete-hasClearIcon.css-1wuilmg-MuiAutocomplete-root .MuiOutlinedInput-root {
+        padding-right: 39px;
+        width: 78%;
+    }
+}
+
+@media (max-width: 320px) {
+    .modeWrapper {
+        padding: 0px 0px;
+    }
+    .MuiAutocomplete-hasPopupIcon.css-1wuilmg-MuiAutocomplete-root .MuiOutlinedInput-root,
+    .MuiAutocomplete-hasClearIcon.css-1wuilmg-MuiAutocomplete-root .MuiOutlinedInput-root {
+        padding-right: 39px;
+        width: 72%;
+    }
+    .inputContainer_label {
+        width: 36%;
+    }
+}

@@ -1,0 +1,27 @@
+.swiper{
+  overflow: visible;
+}
+  .swiper-scrollbar-drag {
+    background-color: #F6D549; 
+  }
+ 
+  
+  @media only screen and (max-width: 1024px) and (min-width: 768px)  {
+    .swiper-slide {
+      
+      margin-right: 30px !important;
+    }
+  } 
+@media only screen and (max-width: 1440px) and (min-width: 1024px)  {
+  .swiper-slide {
+    width: 312px!important;
+    margin-right: 30px !important;
+  }
+} 
+@media only screen and (max-width: 2560px) and (min-width: 1440px)  {
+  .swiper-slide {
+    width: 312px!important;
+    margin-right: 30px !important;
+  }
+} 
+

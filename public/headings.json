@@ -1,0 +1,105 @@
+{
+    "landingPage": {
+        "title": "Credmudra – Get Instant Personal Loan Onilne ",
+        "description": "At Credmudra, we work to match you with lenders that align with your needs. Get Instant approval, easy application, minimal documentation and no hidden charges. Apply now!",
+        "keywords":"Home",
+        "canonical":"https://www.credmudra.com"
+        
+    },
+
+    "businessPage": {
+        "title": "Apply for Instant Business Loan Online in India",
+        "description": "Apply for Business Loan online at lowered interest rates with minimum documentation from Credmudra. Get Instant approval, easy application and no hidden charges. Apply now!",
+        "keywords":"We Provide Funds For All Your Business Needs",
+        "canonical":"https://www.credmudra.com/business-loan"
+    },
+
+    "personalLoan": {
+        "title": "Apply for Instant Personal Loan Online | Up to Rs 10 Lakh",
+        "description": "Apply for instant personal loans online up to Rs.10 lakh with CredMudra. Get matched with a lender, and complete quick formalities for hassle-free disbursal.",
+        "keywords":"Personal Loans",
+        "canonical":"https://www.credmudra.com/personal-loan"
+    },
+
+    "debtConsolidation": {
+        "title": "Get Personal Loan For Debt Consolidation | CredMudra",
+        "description": "Take control of your finances with a personal loan for debt consolidation from CredMudra. Streamline your payments and simplify your life today.",
+        "keywords":"Personal Loan For Debt Consolidation",
+        "canonical":"https://www.credmudra.com/debt-consolidation"
+    },
+
+    "medicalEmergency": {
+        "title": "Apply for a Medical Emergency Loan Online | Credmudra",
+        "description": "Facing an unexpected medical crisis? Our personal loans for medical emergencies provide fast, stress-free financial relief. Apply now and secure your peace of mind.",
+        "keywords":"Personal Loan For Medical Emergency",
+        "canonical":"https://www.credmudra.com/personal-loan-for-medical-emergency"
+    },
+
+    "travalLoan": {
+        "title": "Travel Loan - Apply Personal Loan for Travel | Credmudra",
+        "description": "Don't delay your travel plans! Get an instant personal travel loan with quick disbursal and lowest interest rates from Credmudra. Apply now and Start your journey today!",
+        "keywords":"Travel Loan Tailored To Your Dreams",
+        "canonical":"https://www.credmudra.com/personal-loan-for-travel"
+    },
+
+    "twoWheeler": {
+        "title": "Two Wheeler Loan - Apply Online Instantly | Credmudra",
+        "description": "Don't wait to own a two-wheeler. Our two-wheeler personal loans provide a hassle-free way to get your new bike with a few documents and instant approval.Apply Now!",
+        "keywords":"Cruise Through Life With Affordable Loans For Two-Wheelers",
+        "canonical":"https://www.credmudra.com/personal-loan-for-two-wheeler"
+    },
+
+    "homeRenovation": {
+        "title": "Apply For Loan for Home Renovation Online | CredMudra",
+        "description": "Elevate your living space with our convenient personal loans for home renovation. Quick approvals, flexible terms, and the freedom to create your idealliving space. Apply today!",
+        "keywords":"Experience The Joy Of Home Transformation",
+        "canonical":"https://www.credmudra.com/personal-loan-for-home-renovation"
+    },
+
+    "Eligibility": {
+        "title": "Check Eligibility Criteria for Personal Loans | CredMudra",
+        "description":"Check your personal loan eligibility to get a credit of up to Rs.20 Lakh from Credmudra. Understand the factors that lenders consider and maximize your chances of approval.",
+        "keywords":"Personal Loan Eligibility",
+        "canonical":"https://www.credmudra.com/personal-loan-eligibility"
+    },
+
+    "InterestRate": {
+        "title": "Get the Lowest Personal Loan Interest Rates Online @ Credmudra",
+        "description": "Know the ways to avail the lowest personal loan interest rates to maximigit your personal loan eligibility for various lenders so that you can instantly apply for one",
+        "keywords":"",
+        "canonical":"https://www.credmudra.com/personal-loan-interest-rate"
+    },
+
+    "EMIcalculate": {
+        "title": "Personal Loan EMI Calculator | Credmudra",
+        "description": "The CredMudra Personal Loan EMI Calculator help you to plan your loan  repayments effectively. Get insights into your monthly installments and make informed financial decisions.",
+        "keywords":"Personal Loan EMI Calculator",
+        "canonical":"https://www.credmudra.com/personal-loan-emi-calculator"
+    },
+
+    "getRegister": {
+        "title": "CredMudra",
+        "description": "",
+        "keywords":"",
+        "canonical":""
+    },
+
+    "about": {
+        "title": "About The Team | CredMudra",
+        "description": "We created CredMudra with the conviction that action is the key to achieving  financial freedom and success. The same way we created Team Credmudra and named it Mudra Mentors.",
+        "keywords":"About The Team !",
+        "canonical":"https://www.credmudra.com/about-us"
+    },
+    "TermsAndCondition": {
+        "title": "Terms and Conditions | CredMudra",
+        "description": "Transparency matters to us. Explore our terms and conditions to ensure accountability and a clear understanding of our operations.",
+        "keywords":"Terms and Conditions",
+        "canonical":"https://www.credmudra.com/terms-and-conditions"
+    },
+    "PrivacyPolicy": {
+        "title": "PRIVACY POLICY | CredMudra",
+        "description": "Discover how our privacy policies provide assurance of robust data security. We take your privacy seriously",
+        "keywords":"PRIVACY POLICY",
+        "canonical":"https://www.credmudra.com/privacy-policy"
+    }
+}
